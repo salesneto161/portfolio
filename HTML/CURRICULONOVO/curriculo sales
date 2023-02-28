@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Meu Currículo</title>
+    <link rel="stylesheet" href="estilo2.css" />
+    <link rel="icon" href="favicon.ico" type="image/x-icon" />
+  </head>
+  <body>
+    <header>
+        <img src="salees.jpg" alt="minha foto">
+      <h1>Francisco Pinheiro Sales Neto</h1>
+      <nav>
+        <ul>
+          <li><a href="#experience">Experiência</a></li>
+          <li><a href="#education">Educação</a></li>
+          <li><a href="#skills">Habilidades</a></li>
+          <li><a href="#contact">Contato</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <main>
+      <section id="experience">
+        <h2>Experiência</h2>
+        <article>
+          <h3>Desenvolvedor Web</h3>
+          <h4>Empresa XYZ</h4>
+          <p>
+            Desenvolvimento de aplicativos web para clientes. Utilização de
+            tecnologias como HTML, CSS, JavaScript e Ruby on Rails.
+          </p>
+        </article>
+      </section>
+
+      <section id="education">
+        <h2>Educação</h2>
+        <article>
+          <h3>Bacharel em Ciência da Computação</h3>
+          <h4>Universidade ABC</h4>
+          <p>Graduação em Ciência da Computação, concluída em 2015.</p>
+        </article>
+      </section>
+
+      <section id="skills">
+        <h2>Habilidades</h2>
+        <ul>
+          <li>HTML</li>
+          <li>CSS</li>
+          <li>JavaScript</li>
+          <li>Ruby on Rails</li>
+          <li>React</li>
+          <li>Node.js</li>
+        </ul>
+      </section>
+
+      <section id="contact">
+        <h2>Contato</h2>
+        <ul>
+          <li>Email: salesneto161@gmail.com
+          <li>Telefone: (83) 9411-6867</li>
+        </ul>
+      </section>
+    </main>
+
+    <footer>
+      <p id="copyright">
+        &copy; 2023 Meu Nome
+      </p>
+      <a href="curriculo.pdf" download>Baixe o PDF do meu currículo</a>
+    </footer>
+  </body>
+</html>
