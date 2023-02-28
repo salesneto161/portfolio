@@ -1,0 +1,23 @@
+<!DOCTYPEhtml>
+<HTML>
+    <head>
+        <title>PRIMEIRO SITE</title>
+        <BODY>
+            <h1>
+                meu nome é sales h1
+            </h1>
+            <h2>
+                Segundo titulo h2
+            </h2>
+            <p>
+                tag paragrafo 
+            <b>
+                tab b respresenta negrito
+            </b>
+            </p>
+            <p>
+                tag paragrafo
+            </p>
+        </BODY>
+    </head>
+</HTML>
